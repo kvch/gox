@@ -1,19 +1,19 @@
 {
-	"comment": "",
-	"ignore": "",
+	"comment": "Fork of github.com/mitchellh/gox with `-c-cross-compilers` flag",
+	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "3xP5/nFAqTJCKmOIPKv4GadUQb4=",
+			"checksumSHA1": "r0pj5dMHCghpaQZ3f1BRGoKiSWw=",
 			"path": "github.com/hashicorp/go-version",
-			"revision": "4fe82ae3040f80a03d04d2cccb5606a626b8e1ee",
-			"revisionTime": "2017-11-29T15:08:20Z"
+			"revision": "b5a281d3160aa11950a6182bd9a9dc2cb1e02d50",
+			"revisionTime": "2018-08-24T00:43:55Z"
 		},
 		{
-			"checksumSHA1": "tIQCd3YGbEvxr9j2pFS8LCHt9nY=",
-			"path": "github.com/mitchellh/gox",
-			"revision": "0d65d8b8c2d1ebc3355877aec37060bee0a2f9fe",
-			"revisionTime": "2018-01-03T15:26:19Z"
+			"checksumSHA1": "bw5tHPXhPEUdI11X2lSPBXwaNGI=",
+			"path": "github.com/mitchellh/iochan",
+			"revision": "b6e3aadd28864e14dae41ff5c7261455b1242d24",
+			"revisionTime": "2018-08-24T03:58:58Z"
 		}
 	],
-	"rootPath": "github.com/mitchellh/gox"
+	"rootPath": "github.com/kvch/gox"
 }
